@@ -20,7 +20,7 @@
 
 # Limitations and Weakness
 - There are flaws in data analysis methodology.
-- Lacking vast amounts of data.
+- Lacking vast amounts of data to surpport the conclusions.
 - The visualization part could be better.
 
 # License
