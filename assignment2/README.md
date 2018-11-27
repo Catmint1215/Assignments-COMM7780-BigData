@@ -1,9 +1,9 @@
 # Brief Introduction:
-  We collected 300 pieces of data about the housing price in chengdu, and mainly analyzed the second-hand housing market in chengdu from the four dimensions of unit price, total price, size and district.
+  I collected 300 pieces of data about the housing price in chengdu, and mainly analyzed the second-hand housing market in chengdu from the four dimensions of unit price, total price, size and district.
 
   This dataset contains the houses for sale in Chengdu up to date on Lianjia website. [Starting Page](https://cd.lianjia.com/ershoufang/co32/)
 
-  Please read the report notebook [here](https://nbviewer.jupyter.org/github/Catmint1215/Assignments-COMM7780-BigData/blob/master/Assignment%202/Assignment%2002.ipynb)
+  Please read the report notebook [here](https://nbviewer.jupyter.org/github/Catmint1215/python-data-assignments/blob/master/assignment2/Assignment%2002.ipynb)
 
 # Data Analysis
 
