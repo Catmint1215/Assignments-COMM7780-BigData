@@ -4,7 +4,7 @@ I collected 300 pieces of data about the housing price in chengdu, and mainly an
 
 This dataset contains the houses for sale in Chengdu up to date on Lianjia website. [Starting Page](https://cd.lianjia.com/ershoufang/co32/)
 
-Please read the report notebook [here](https://nbviewer.jupyter.org/github/Catmint1215/python-data-assignments/blob/master/Assignment2/Assignment02.ipynb)
+Please read the report notebook [here](https://nbviewer.jupyter.org/github/Catmint1215/python-data-assignments/blob/master/assignment2/Assignment02.ipynb)
 # Data Analysis
 
 **Data Volume**
